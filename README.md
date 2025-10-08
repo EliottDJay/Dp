@@ -7,6 +7,7 @@
 
 
 ### demo
+If the MP4 playback fails, all related files can be found in the demo folder.
 
 - bicycle
 demo:
