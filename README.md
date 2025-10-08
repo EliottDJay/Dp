@@ -9,12 +9,12 @@
 ### demo
 
 - bicycle
-![original3DGS_1](demo/bicycle_vanilla.mp4)
-
-demo/bicycle_vanilla.mp4
+demo:
+https://github.com/EliottDJay/Dp/tree/main/demo/bicycle_vanilla.mp4
 
 https://github.com/EliottDJay/Dp/tree/main/demo/bicycle_dropout.mp4
 
+![]
 
 - flowers
 https://github.com/EliottDJay/Dp/tree/main/demo/
