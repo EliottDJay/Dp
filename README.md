@@ -1,6 +1,21 @@
 # Dp
 
-
+### Error map
 ![original3DGS_1](demo/original3DGS_1.png)
 ![original3DGS_1](demo/original3DGS_2.png)
 ![original3DGS_1](demo/original3DGS_3.png)
+
+
+### demo
+
+https://github.com/EliottDJay/Dp/tree/main/demo/
+
+https://github.com/EliottDJay/Dp/tree/main/demo/
+
+
+https://github.com/EliottDJay/Dp/tree/main/demo/
+
+
+https://github.com/EliottDJay/Dp/tree/main/demo/
+
+https://github.com/EliottDJay/Dp/tree/main/demo/
