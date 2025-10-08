@@ -17,11 +17,12 @@ https://github.com/EliottDJay/Dp/tree/main/demo/bicycle_dropout.mp4
 
 ellipsodis vanilla:
 
-![bicycle_dropout_ellipsodis](demo/bicycle_dropout_ellipsodises19.png)
+![bicycle_vanilla_epllisodis19](demo/bicycle_vanilla_epllisodis19.png)
 
 ellipsodis dropout:
 
-![bicycle_vanilla_epllisodis19](demo/bicycle_vanilla_epllisodis19.png)
+![bicycle_dropout_ellipsodis](demo/bicycle_dropout_ellipsodises19.png)
+
 
 - flowers
 
