@@ -9,7 +9,9 @@
 ### demo
 
 - bicycle
-https://github.com/EliottDJay/Dp/tree/main/demo/bicycle_vanilla.mp4
+![original3DGS_1](demo/bicycle_vanilla.mp4)
+
+demo/bicycle_vanilla.mp4
 
 https://github.com/EliottDJay/Dp/tree/main/demo/bicycle_dropout.mp4
 
