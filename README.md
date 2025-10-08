@@ -32,13 +32,13 @@ https://github.com/EliottDJay/Dp/tree/main/demo/flowers_dropout.mp4
 
 ellipsodis vanilla:
 
-![flower_dropout_ellipsoids34](demo/flowers_vanilla_ellipsods34.png)
+![flower_vanilla_ellipsoids34](demo/flowers_vanilla_ellipsods34.png)
 
 ![flowers_vanilla_ellipsoids24](demo/flowers_vanilla_ellipsoids24.png)
 
 ellipsodis dropout:
 
-![flowers_vanilla_ellipsods34](demo/flowers_vanilla_ellipsods34.png)
+![flowers_dropout_ellipsode34](demo/flowers_dropout_ellipsode34.png)
 
 ![flower_dropout_ellipsoids24](demo/flower_dropout_ellipsoids24.png)
 
